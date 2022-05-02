@@ -19,8 +19,8 @@
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Stargazers][stars-shield]][https://github.com/adarshsingh55/cute/stars]
+[![Issues][issues-shield]][https://github.com/adarshsingh55/cute/issues]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
