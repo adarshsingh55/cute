@@ -53,9 +53,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/screenshort.jpeg" alt="Logo" width="80" height="150">
-  </a>
+
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 this is made to learn xhr request with anime quort website.🥰😍😀
@@ -138,7 +136,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshort.jpeg.
 
 
 
